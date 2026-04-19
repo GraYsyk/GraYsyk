@@ -3,8 +3,8 @@
 
 ## Hi 👋, im Nick!
 ---
-My passion is making websites, also I really like frontend.
-Currently I'm learning JavaScript and CSS
+My passion is making websites, also I really like BackEnd.
+Currently I'm learning React..
 
 ## Tools  & Languages
 ---
