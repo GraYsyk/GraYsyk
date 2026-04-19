@@ -8,7 +8,7 @@ Currently I'm learning React..
 
 ## Tools  & Languages
 ---
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,linux,js,react,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,linux,nginx,js,react,css,html)](https://skillicons.dev)
 
 
 
