@@ -8,7 +8,13 @@ Currently I'm learning React..
 
 ## Tools  & Languages
 ---
-![icons8-github-94](https://github.com/user-attachments/assets/1b5b9f91-14ae-44ae-83b0-7c0f8f99ee5c) ![image](https://github.com/user-attachments/assets/a5a2e005-2ea5-4d9d-ad56-5b51e4b58e55) ![image](https://github.com/user-attachments/assets/e3154f33-500a-40c7-9657-1f227163df84) ![image](https://github.com/user-attachments/assets/c7086464-b11c-4bdb-a24c-caaccf0653f9) ![image](https://github.com/user-attachments/assets/37251ef9-798e-47ca-be59-3adbffd1260d) ![image](https://github.com/user-attachments/assets/cb5ce089-1f24-410f-b360-c94bc5e91828) ![image](https://github.com/user-attachments/assets/80d7ecde-afb8-4522-a934-e2bef1bb7c50) ![image](https://github.com/user-attachments/assets/543c3d78-7382-4ca3-8e8a-42c1de24784f) ![image](https://github.com/user-attachments/assets/93fe6962-b729-4474-b17a-12b0ab9455f8) <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6c25a170-3921-41cf-a8d7-5912a30337e9" style="display: inline-block"/> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9505228f-1948-4bf6-a20e-ff803fe23022" style="display: inline-block"/>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#0277BD"/>
+<path d="M53.7527 102.651L56.6155 134.593H128.096V102.651H53.7527Z" fill="#EBEBEB"/>
+<path d="M128.095 38H127.985H48L50.9036 69.9423H128.095V38Z" fill="#EBEBEB"/>
+<path d="M128.095 218.841V185.608L127.955 185.645L92.3813 176.04L90.1072 150.564H72.821H58.0425L62.5175 200.718L127.948 218.882L128.095 218.841Z" fill="#EBEBEB"/>
+<path d="M167.318 134.593L163.61 176.019L127.985 185.635V218.866L193.468 200.718L193.948 195.321L201.454 111.229L202.233 102.651L208 38H127.985V69.9423H172.994L170.088 102.651H127.985V134.593H167.318Z" fill="white"/>
+</svg>
 
 
 
